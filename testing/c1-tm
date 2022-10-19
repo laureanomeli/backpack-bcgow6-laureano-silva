@@ -1,0 +1,22 @@
+* ¿Cuáles son las diferencias entre White Box y Black Box?
+
+En las pruebas de White box conocemos los detalles internos del códig a testear. En las de Black box solo se testea que determinado input devuelva algo que esperamos,
+Sin importar como lo hace.
+
+* ¿Qué es un test funcional?.
+
+Es un tipo de test que prueba que el software cumpla con el requerimiento.
+
+* ¿Qué es un Test de Integración?
+
+EN los tests de integración se prueba la comunicación entre componentes de una aplicación. Se ejecutan luego de que los test unitarios funcionen correctamente para probar 
+como interactuan entre si distintas partes del software.
+
+* Indicar las dimensiones de calidad prioritarias en MELI.
+
+
+- Funcionalidad: Se espera que la funcionalidad del producto sea la correcta y que sea completa (cumpla todos los requerimientos)
+- Rendimiento: Se espera que el código se ejecute en un tiempo prudente. Y que haga un buen uso de los recursos.
+- Fiabilidad: Se espera que el código sea confiable. Que sea poco propenso a errores y que pueda recuperarse cuando ocurra alguno. Ademas que tenga alta disponibilidad.
+- Seguridad: Se espera que el código sea seguro. No exponga datos sensibles y que los resultados que arroje no puedan ser repudiables.
+- Mantenibilidad: Se espera que el código sea modular, testeable, que permita la reusabilididad, que pueda ser fácilmente modificable y analizable.
