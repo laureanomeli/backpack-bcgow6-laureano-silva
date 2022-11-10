@@ -31,6 +31,7 @@ func readFile(filePath string) (fileContent []byte, err error) {
 	if err != nil {
 		panic(err)
 	}
+	return
 }
 
 func main() {
@@ -40,8 +41,6 @@ func main() {
 			fmt.Println(err)
 		}
 	}()
-
-	fmt.Println(customers)
 
 	cliente1 := Client{}
 	cliente1.generateRecordNumber(counter)

@@ -1,5 +1,7 @@
+package c1tm
+
 var apellido string = "Gomez"
 var edad int = 35
-boolean := false
+var boolean bool = false
 var sueldo float64 = 45857.90
 var nombre string = "Julián"

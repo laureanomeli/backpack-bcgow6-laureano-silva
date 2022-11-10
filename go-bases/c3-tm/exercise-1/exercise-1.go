@@ -9,7 +9,7 @@ type product struct {
 }
 
 func main() {
-	products := []product{[1, 100, 50, 2, 200, 150, 3, 400, 510}
+	products := []product{{1, 100, 50}, {2, 200, 150}, {3, 400, 510}}
 	//productsToBytes := byte(products)
 	fmt.Print(products)
 	/* err := os.WriteFile("./products", products, 0644)
