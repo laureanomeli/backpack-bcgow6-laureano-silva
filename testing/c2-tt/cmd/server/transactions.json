@@ -1,0 +1,83 @@
+[
+ {
+  "id": 1,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ },
+ {
+  "id": 2,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ },
+ {
+  "id": 3,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ },
+ {
+  "id": 4,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ },
+ {
+  "id": 5,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ },
+ {
+  "id": 6,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ },
+ {
+  "id": 7,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ },
+ {
+  "id": 8,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ },
+ {
+  "id": 9,
+  "code": "hvb",
+  "currency": "ars",
+  "amount": 4560,
+  "emitter": "lala",
+  "receiver": "toto",
+  "date": "4/10/2022"
+ }
+]
